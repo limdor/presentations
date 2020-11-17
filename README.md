@@ -25,3 +25,15 @@ List of talks:
     [Event](https://www.meetup.com/MUCplusplus/events/265496392/)
   * code::dive 2019 on November 20th, 2019
     [Event](https://codedive.pl/2019/dependency-management-in-c) - [Youtube](https://youtu.be/dJpAppmRWVI) - [Slides](./20191120%20-%20code%20dive%202019%20-%20Dependency%20management%20in%20C++.pdf)
+
+* Introduction to Bazel to build C++ and Python
+
+  Yet another build system? Why should you learn a new one?
+
+  {Fast, Correct} - Choose two
+
+  that's the motto of Bazel. In this talk I will give an introduction to the open-source build and test tool developed by Google. The first major release was published by the end of 2019. What is so special about Bazel? It is fast, reliable, multi-platform, scalable and extensible. Everything extracted using a high-level build language similar to Python called Starlark. During the talk I will show you how to define libraries, binaries and tests for C++, as well as for Python. In addition I will show you how to combine both languages in a project and how to set up a build toolchain. At the end of the talk I will give you some ideas on extensions that can be added to fit your project and requirements.
+
+  This talk will be presented in:
+  * code::dive 2020 on November 20th, 2019
+    [Event](https://codedive.pl/2020/introduction-to-bazel-to-build-c-and-python) - [Conference registration](https://register.codedive.pl/register/participant) - [Youtube (live streaming - Stage 1 - 15:15 - 16:15 CET)](https://youtu.be/SUnaA-HYshY) - [Slides (soon available)](./)
