@@ -36,4 +36,4 @@ List of talks:
 
   This talk will be presented in:
   * code::dive 2020 on November 20th, 2019
-    [Event](https://codedive.pl/2020/introduction-to-bazel-to-build-c-and-python) - [Conference registration](https://register.codedive.pl/register/participant) - [Youtube (live streaming - Stage 1 - 15:15 - 16:15 CET)](https://youtu.be/SUnaA-HYshY) - [Slides (soon available)](./)
+    [Event](https://codedive.pl/2020/introduction-to-bazel-to-build-c-and-python) - [Conference registration](https://register.codedive.pl/register/participant) - [Youtube (live streaming - Stage 1 - 15:15 - 16:15 CET)](https://youtu.be/SUnaA-HYshY) - [Slides](./20201118%20-%20code%20dive%202020%20-%20Introduction%20to%20Bazel%20to%20build%20C++%20and%20Python.pdf)
