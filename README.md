@@ -24,4 +24,4 @@ List of talks:
   * C++ User Group Munich on October 17th, 2019
     [Event](https://www.meetup.com/MUCplusplus/events/265496392/)
   * code::dive 2019 on November 20th, 2019
-    [Event](https://codedive.pl/index/speaker/name/xavier-bonaventura) - [Youtube (soon available)](https://www.youtube.com/watch?v=x-ZDZ1CcP3k&list=PLK3T2dt6T1fd65u8sx01jRrp9aVquXIpN) - [Slides](./20191120%20-%20code%20dive%202019%20-%20Dependency%20management%20in%20C++.pdf)
+    [Event](https://codedive.pl/2019/dependency-management-in-c) - [Youtube](https://youtu.be/dJpAppmRWVI) - [Slides](./20191120%20-%20code%20dive%202019%20-%20Dependency%20management%20in%20C++.pdf)
