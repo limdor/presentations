@@ -34,6 +34,6 @@ List of talks:
 
   that's the motto of Bazel. In this talk I will give an introduction to the open-source build and test tool developed by Google. The first major release was published by the end of 2019. What is so special about Bazel? It is fast, reliable, multi-platform, scalable and extensible. Everything extracted using a high-level build language similar to Python called Starlark. During the talk I will show you how to define libraries, binaries and tests for C++, as well as for Python. In addition I will show you how to combine both languages in a project and how to set up a build toolchain. At the end of the talk I will give you some ideas on extensions that can be added to fit your project and requirements.
 
-  This talk will be presented in:
+  This talk was presented in:
   * code::dive 2020 on November 20th, 2019
-    [Event](https://codedive.pl/2020/introduction-to-bazel-to-build-c-and-python) - [Conference registration](https://register.codedive.pl/register/participant) - [Youtube (live streaming - Stage 1 - 15:15 - 16:15 CET)](https://youtu.be/SUnaA-HYshY) - [Slides](./20201118%20-%20code%20dive%202020%20-%20Introduction%20to%20Bazel%20to%20build%20C++%20and%20Python.pdf)
+    [Event](https://codedive.pl/2020/introduction-to-bazel-to-build-c-and-python) - [Youtube](https://youtu.be/vEQQ9QOVpdU) - [Slides](./20201118%20-%20code%20dive%202020%20-%20Introduction%20to%20Bazel%20to%20build%20C++%20and%20Python.pdf)
