@@ -35,5 +35,21 @@ List of talks:
   that's the motto of Bazel. In this talk I will give an introduction to the open-source build and test tool developed by Google. The first major release was published by the end of 2019. What is so special about Bazel? It is fast, reliable, multi-platform, scalable and extensible. Everything extracted using a high-level build language similar to Python called Starlark. During the talk I will show you how to define libraries, binaries and tests for C++, as well as for Python. In addition I will show you how to combine both languages in a project and how to set up a build toolchain. At the end of the talk I will give you some ideas on extensions that can be added to fit your project and requirements.
 
   This talk was presented in:
-  * code::dive 2020 on November 20th, 2019
+  * code::dive 2020 on November 18th, 2020
     [Event](https://codedive.pl/2020/introduction-to-bazel-to-build-c-and-python) - [Youtube](https://youtu.be/vEQQ9QOVpdU) - [Slides](./20201118%20-%20code%20dive%202020%20-%20Introduction%20to%20Bazel%20to%20build%20C++%20and%20Python.pdf)
+
+* How to deal with static analysis findings: MISRA
+
+  During software development we have to deal with findings every day. Compilation errors, feedback from code reviews, a code coverage report, etc.
+
+  In this talk you will learn how to deal with findings. In particular, we will focus on static analysis and we will see examples of tooling reporting MISRA C++ violations.
+
+  This talk will be divided in two parts. The first part will be about findings in a generic way, the second part will be about MISRA.
+
+  MISRA provides coding guidelines for developing safety critical system. We will take real findings of MISRA C++violations and we will see how to deal with them. You will also learn about the MISRA Compliance document and how to document deviations.
+
+  By the end of the talk, you will know how to deal with the feedback that you receive every day and also how to provide it.
+  
+  This talk was presented in:
+  * Meeting C++ 2023 on November 13th, 2023
+    [Event](https://meetingcpp.com/2023/Talks/items/How_to_deal_with_static_analysis_findings__MISRA.html) - [Slides](./20231113%20-%20Meeting%20C%2B%2B%20-%20How%20to%20deal%20with%20static%20analysis%20findings.pdf)
