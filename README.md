@@ -53,3 +53,23 @@ List of talks:
   This talk was presented in:
   * Meeting C++ 2023 on November 13th, 2023
     [Event](https://meetingcpp.com/2023/Talks/items/How_to_deal_with_static_analysis_findings__MISRA.html) - [Slides](./20231113%20-%20Meeting%20C%2B%2B%20-%20How%20to%20deal%20with%20static%20analysis%20findings.pdf)
+
+* Everything you need to know about code coverage in C++ (presentation done together with Jorge Pinto Sousa)
+
+  Code coverage is one of the metrics to be considered when you want to deliver high quality software. At the same time, having 100% code coverage does not guarantee you anything.
+
+  In this talk we will explain why you should consider code coverage and what does it mean and does not mean to reach 100%. We will talk about baseline coverage, the different types of code coverage, and what is required by the ISO 26262 standard used in automotive.
+
+  We will also get into the typical code coverage workflow, tracing the journey from raw source code through the process of instrumentation. We'll explore the types of data collected, as well as the intermediate files produced during this phase.
+
+  Our exploration will include a review of various coverage tools, specifically gcov, gcovr, lcov, and llvm-cov, and we'll examine their connection to the Abstract Syntax Tree (AST).
+
+  Additionally, we will highlight several corner case scenarios, including:
+
+    * Branches introduced by compiler optimizations
+    * The implications of const, constexpr, and consteval
+    * Templates
+  
+  This talk was presented in:
+  * using std::cpp 2024 on April 26th, 2024
+    [Event](https://eventos.uc3m.es/105614/programme/using-std-cpp-2024.html) - [Slides](./20240426%20-%20using%20std%202024%20-%20Everything%20you%20need%20to%20know%20about%20code%20coverage%20in%20C%2B%2B.pdf)
