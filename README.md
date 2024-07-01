@@ -52,7 +52,7 @@ List of talks:
   
   This talk was presented in:
   * Meeting C++ 2023 on November 13th, 2023
-    [Event](https://meetingcpp.com/2023/Talks/items/How_to_deal_with_static_analysis_findings__MISRA.html) - [Slides](./20231113%20-%20Meeting%20C%2B%2B%20-%20How%20to%20deal%20with%20static%20analysis%20findings.pdf)
+    [Event](https://meetingcpp.com/2023/Talks/items/How_to_deal_with_static_analysis_findings__MISRA.html) - [YouTube](https://youtu.be/ApUc7VEfKkw) - [Slides](./20231113%20-%20Meeting%20C%2B%2B%20-%20How%20to%20deal%20with%20static%20analysis%20findings.pdf)
 
 * Everything you need to know about code coverage in C++ (presentation done together with Jorge Pinto Sousa)
 
@@ -72,4 +72,4 @@ List of talks:
   
   This talk was presented in:
   * using std::cpp 2024 on April 26th, 2024
-    [Event](https://eventos.uc3m.es/105614/programme/using-std-cpp-2024.html) - [Slides](./20240426%20-%20using%20std%202024%20-%20Everything%20you%20need%20to%20know%20about%20code%20coverage%20in%20C%2B%2B.pdf)
+    [Event](https://eventos.uc3m.es/105614/programme/using-std-cpp-2024.html) - [YouTube](https://youtu.be/LDtZpE0aKyQ) - [Slides](./20240426%20-%20using%20std%202024%20-%20Everything%20you%20need%20to%20know%20about%20code%20coverage%20in%20C%2B%2B.pdf)
