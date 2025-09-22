@@ -66,10 +66,22 @@ List of talks:
 
   Additionally, we will highlight several corner case scenarios, including:
 
-    * Branches introduced by compiler optimizations
-    * The implications of const, constexpr, and consteval
-    * Templates
+  * Branches introduced by compiler optimizations
+  * The implications of const, constexpr, and consteval
+  * Templates
   
   This talk was presented in:
   * using std::cpp 2024 on April 26th, 2024
     [Event](https://eventos.uc3m.es/105614/programme/using-std-cpp-2024.html) - [YouTube](https://youtu.be/LDtZpE0aKyQ) - [Slides](./20240426%20-%20using%20std%202024%20-%20Everything%20you%20need%20to%20know%20about%20code%20coverage%20in%20C%2B%2B.pdf)
+
+* Dynamic memory allocation challenges in safety critical systems
+
+  A program is nothing else than a bunch of instructions modifying chunks of memory based on some inputs to produce some outputs. When these chunks of memory are defined at runtime, we call it dynamic memory allocation. In C++ there are multiple situations where dynamic memory allocation is performed. A user can allocate dynamic memory explicitly in different ways, but dynamic memory allocation can also happen implicitly. There are multiple features of C++ that require dynamic memory allocation, but this is not always necessarily clear to the user. This might become a problem in certain fields. In safety critical systems some guidelines forbid the use of dynamic memory allocation.
+
+  In this talk we will analyse certain features of the C++ library to see if they dynamically allocate or not. We will also learn what are the challenges with dynamic memory allocation in safety critical systems and what alternatives do we have. By the end of the talk you will have gained the knowledge to dynamically allocate memory in safety critical systems in a safer way.
+
+  This talk was presented in:
+  * C++ User Group Munich on March 26th, 2025
+    [Event](https://www.meetup.com/mucplusplus/events/306803049/)
+  * ACCU 2025 on April 3rd, 2025
+    [Event](https://accuconference.org/2025/session/dynamic-memory-allocation-challenges-in-safety-critical-systems) - [Slides](./20250403%20-%20ACCU%202025%20-%20Dynamic%20memory%20allocation%20challenges%20in%20safety%20critical%20systems.pdf)
