@@ -11,10 +11,12 @@ List of talks:
   In this talk we will analyse certain features of the C++ library to see if they dynamically allocate or not. We will also learn what are the challenges with dynamic memory allocation in safety critical systems and what alternatives do we have. By the end of the talk you will have gained the knowledge to dynamically allocate memory in safety critical systems in a safer way.
 
   This talk was presented in:
-  * C++ User Group Munich on March 26th, 2025
-    [Event](https://www.meetup.com/mucplusplus/events/306803049/)
+  * NDC TechTown 2025 on September 24th, 2025
+    [Event](https://ndctechtown.com/agenda/dynamic-memory-allocation-challenges-in-safety-critical-systems-0f1q/81748865526b) - [Slides](./20250924%20-%20NDC%20TechTown%202025%20-%20Dynamic%20memory%20allocation%20challenges%20in%20safety%20critical%20systems.pdf)
   * ACCU 2025 on April 3rd, 2025
     [Event](https://accuconference.org/2025/session/dynamic-memory-allocation-challenges-in-safety-critical-systems) - [Slides](./20250403%20-%20ACCU%202025%20-%20Dynamic%20memory%20allocation%20challenges%20in%20safety%20critical%20systems.pdf)
+  * C++ User Group Munich on March 26th, 2025
+    [Event](https://www.meetup.com/mucplusplus/events/306803049/)
 
 * Everything you need to know about code coverage in C++ (presentation done together with Jorge Pinto Sousa)
 
@@ -61,6 +63,8 @@ List of talks:
   that's the motto of Bazel. In this talk I will give an introduction to the open-source build and test tool developed by Google. The first major release was published by the end of 2019. What is so special about Bazel? It is fast, reliable, multi-platform, scalable and extensible. Everything extracted using a high-level build language similar to Python called Starlark. During the talk I will show you how to define libraries, binaries and tests for C++, as well as for Python. In addition I will show you how to combine both languages in a project and how to set up a build toolchain. At the end of the talk I will give you some ideas on extensions that can be added to fit your project and requirements.
 
   This talk was presented in:
+  * NDC TechTown 2025 on September 25th, 2025
+    [Event](https://ndctechtown.com/agenda/introduction-to-bazel-0nr7/0071m5pd470) - [Slides](./20250925%20-%20NDC%20TechTown%202025%20-%20Introduction%20to%20Bazel.pdf)
   * code::dive 2020 on November 18th, 2020
     [Event](https://codedive.pl/2020/introduction-to-bazel-to-build-c-and-python) - [Youtube](https://youtu.be/vEQQ9QOVpdU) - [Slides](./20201118%20-%20code%20dive%202020%20-%20Introduction%20to%20Bazel%20to%20build%20C++%20and%20Python.pdf)
 
