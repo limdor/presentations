@@ -4,6 +4,20 @@ Here you can find the slides and material of the different talks that I gave.
 
 List of talks:
 
+* Introduction to Bazel to build C++ and Python
+
+  Yet another build system? Why should you learn a new one?
+
+  {Fast, Correct} - Choose two
+
+  that's the motto of Bazel. In this talk I will give an introduction to the open-source build and test tool developed by Google. The first major release was published by the end of 2019. What is so special about Bazel? It is fast, reliable, multi-platform, scalable and extensible. Everything extracted using a high-level build language similar to Python called Starlark. During the talk I will show you how to define libraries, binaries and tests for C++, as well as for Python. In addition I will show you how to combine both languages in a project and how to set up a build toolchain. At the end of the talk I will give you some ideas on extensions that can be added to fit your project and requirements.
+
+  This talk was presented in:
+  * NDC TechTown 2025 on September 25th, 2025
+    [Event](https://ndctechtown.com/agenda/introduction-to-bazel-0nr7/0071m5pd470) - [Slides](./20250925%20-%20NDC%20TechTown%202025%20-%20Introduction%20to%20Bazel.pdf)
+  * code::dive 2020 on November 18th, 2020
+    [Event](https://codedive.pl/2020/introduction-to-bazel-to-build-c-and-python) - [Youtube](https://youtu.be/vEQQ9QOVpdU) - [Slides](./20201118%20-%20code%20dive%202020%20-%20Introduction%20to%20Bazel%20to%20build%20C++%20and%20Python.pdf)
+
 * Dynamic memory allocation challenges in safety critical systems
 
   A program is nothing else than a bunch of instructions modifying chunks of memory based on some inputs to produce some outputs. When these chunks of memory are defined at runtime, we call it dynamic memory allocation. In C++ there are multiple situations where dynamic memory allocation is performed. A user can allocate dynamic memory explicitly in different ways, but dynamic memory allocation can also happen implicitly. There are multiple features of C++ that require dynamic memory allocation, but this is not always necessarily clear to the user. This might become a problem in certain fields. In safety critical systems some guidelines forbid the use of dynamic memory allocation.
@@ -53,20 +67,6 @@ List of talks:
   This talk was presented in:
   * Meeting C++ 2023 on November 13th, 2023
     [Event](https://meetingcpp.com/2023/Talks/items/How_to_deal_with_static_analysis_findings__MISRA.html) - [YouTube](https://youtu.be/ApUc7VEfKkw) - [Slides](./20231113%20-%20Meeting%20C%2B%2B%20-%20How%20to%20deal%20with%20static%20analysis%20findings.pdf)
-
-* Introduction to Bazel to build C++ and Python
-
-  Yet another build system? Why should you learn a new one?
-
-  {Fast, Correct} - Choose two
-
-  that's the motto of Bazel. In this talk I will give an introduction to the open-source build and test tool developed by Google. The first major release was published by the end of 2019. What is so special about Bazel? It is fast, reliable, multi-platform, scalable and extensible. Everything extracted using a high-level build language similar to Python called Starlark. During the talk I will show you how to define libraries, binaries and tests for C++, as well as for Python. In addition I will show you how to combine both languages in a project and how to set up a build toolchain. At the end of the talk I will give you some ideas on extensions that can be added to fit your project and requirements.
-
-  This talk was presented in:
-  * NDC TechTown 2025 on September 25th, 2025
-    [Event](https://ndctechtown.com/agenda/introduction-to-bazel-0nr7/0071m5pd470) - [Slides](./20250925%20-%20NDC%20TechTown%202025%20-%20Introduction%20to%20Bazel.pdf)
-  * code::dive 2020 on November 18th, 2020
-    [Event](https://codedive.pl/2020/introduction-to-bazel-to-build-c-and-python) - [Youtube](https://youtu.be/vEQQ9QOVpdU) - [Slides](./20201118%20-%20code%20dive%202020%20-%20Introduction%20to%20Bazel%20to%20build%20C++%20and%20Python.pdf)
 
 * Dependency Management in C++
   
