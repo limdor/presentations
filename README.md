@@ -4,7 +4,7 @@ Here you can find the slides and material of the different talks that I gave.
 
 List of talks:
 
-* Introduction to Bazel to build C++ and Python
+* Introduction to Bazel
 
   Yet another build system? Why should you learn a new one?
 
